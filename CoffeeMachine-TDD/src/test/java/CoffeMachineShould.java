@@ -1,7 +1,6 @@
 import com.sda.aparatcafea.Coffe;
 import com.sda.aparatcafea.CoffeMachine;
 import org.junit.Test;
-
 import static com.sda.aparatcafea.ECoffeType.CAPPUCCINO;
 import static com.sda.aparatcafea.ECoffeType.ESPRESSO;
 import static org.junit.Assert.assertEquals;
